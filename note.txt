@@ -1,0 +1,8 @@
+#Rappel
+# Git pull
+# Git add then git commit then git push
+# man , is use for instruction
+# git branch to create a branch
+# git check out , and use man for more details
+# git status 
+# git clone fait une copie local 
